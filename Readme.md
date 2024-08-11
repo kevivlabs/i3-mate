@@ -18,5 +18,6 @@ Press SUPER+SHIFT+R
 
 
 References:
+
 https://ubuntu-mate.community/t/how-to-install-i3wm-mate/26763
 https://mattgreer.dev/blog/mate-and-i3/
