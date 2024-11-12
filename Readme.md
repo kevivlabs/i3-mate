@@ -16,7 +16,11 @@ org > mate > desktop >background>show-desktop-icons to false
 Add "for_window [window_type="normal"] border normal" to your i3 config(~/.config/i3/config):
 Press SUPER+SHIFT+R
 
+# Fixing montior name  pop up
+mate desktop monitor name stuck popup
 
+solution
+lingering "mate-display-properties" processes running. Killing all of them fixed the issue.
 # References:
 
 - https://ubuntu-mate.community/t/how-to-install-i3wm-mate/26763
