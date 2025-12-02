@@ -50,7 +50,7 @@ DPI = sqrt(width_in_pixels² + height_in_pixels²) / diagonal_inches
 For example, for a 24-inch 1920x1080 monitor:
 DPI = sqrt(1920² + 1080²) / 24 ≈ 92
 For mine its  /27 which is 81.589
-
+default is 0
 
 To set the DPI in MATE:
 sudo apt install dconf-editor
